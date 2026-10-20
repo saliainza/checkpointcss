@@ -1,0 +1,33 @@
+h1{
+    font-family: 'times new roman', serif;
+}
+h2~{
+    font-family: 'arial', serif;
+}
+h3{
+    font-family: 'verdana', serif;
+    background-color: #212be9;
+    padding: 10px;
+
+}
+.services{
+    font-family: 'verdana', serif;
+    background-color: #d8d9e6;
+    padding: 10px;
+}
+nav{
+    font-family: 'verdana', serif;
+    background-color: #00010e;
+    padding: 10px;
+    text-align: center;
+
+}
+nav a{
+    font-family: 'verdana', serif;
+    background-color: #00010e;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
