@@ -1,5 +1,5 @@
 h1{
-    font-family: 'times new roman', serif;
+    font-family: 'Roboto', serif;
 }
 h2~{
     font-family: 'arial', serif;
@@ -20,14 +20,28 @@ nav{
     background-color: #00010e;
     padding: 10px;
     text-align: center;
+    display: inline;
 
 }
+
 nav a{
-    font-family: 'verdana', serif;
-    background-color: #00010e;
+    font-family: 'verdana', serif;;
     padding: 10px;
     color: white;
     text-decoration: none;
     text-align: center;
 }
-
+button {
+    font-family: 'verdana', serif;
+    background-color: #010869;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    border: 5px;
+}
+fieldset {
+    background-color: bisque;
+}
+.image-container {
+    height: 20px;
+}
